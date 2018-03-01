@@ -1,0 +1,23 @@
+Microsoft Windows [Version 10.0.16299.248]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd CharCombinations
+
+C:\Users\Jaryl\Desktop\CharCombinations>cd src
+
+C:\Users\Jaryl\Desktop\CharCombinations\src>javac CharCombinations.java
+
+C:\Users\Jaryl\Desktop\CharCombinations\src>java CharCombinations
+Please enter the number of rows for your array:
+3
+Please fill out the elements in row # 1:
+ab
+Please fill out the elements in row # 2:
+cd
+Please fill out the elements in row # 3:
+ef
+The combinations are: [ace, acf, ade, adf, bce, bcf, bde, bdf]
+
+C:\Users\Jaryl\Desktop\CharCombinations\src>
